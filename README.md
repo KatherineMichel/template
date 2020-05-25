@@ -24,6 +24,9 @@ Table of Contents
   * [Local Environment Set Up](#local-environment-set-up)
   * [Deployment Set Up](#deployment-set-up)
 * [Packaging](#packaging)
+  * [GitHub Action](#github-action)
+  * [PyPI](#pypi)
+  * [JavaScript](#javascript)
 * [Milestones](#milestones)
   * [Milestone 1](#milestone-1)
 * [Possible Enhancements](#possible-enhancements)
@@ -79,6 +82,12 @@ Table of Contents
 
 ## Packaging
 
+### GitHub Action
+
+### PyPI
+
+### JavaScript
+  
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
 ## Milestones
