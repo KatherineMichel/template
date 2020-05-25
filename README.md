@@ -6,7 +6,7 @@
 
 Photo and credit
 
-### GitHub Actions Proof of Concept
+### Special Info
 
 Table of Contents
 -----------------
