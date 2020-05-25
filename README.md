@@ -64,6 +64,8 @@ Table of Contents
 
 ## Packaging
 
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
 ## Milestones
 
 ### Milestone 1
