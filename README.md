@@ -121,6 +121,8 @@ Table of Contents
 
 ## Contribute
 
+To contribute, see my [Contributing](https://github.com/KatherineMichel/.github/blob/master/CONTRIBUTING.md) guidance.
+
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
 ## Code of Conduct
