@@ -31,7 +31,7 @@ Table of Contents
   * [Milestone 1](#milestone-1)
 * [Publicity](#publicity)
 * [Connect](#connect)
-* [Resources](#resources)
+* [Additional Resources](#additional-resources)
 * [Possible Enhancements](#possible-enhancements)
 * [Change Log](#change-log)
 * [Contribute](#contribute)
@@ -107,7 +107,7 @@ Table of Contents
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
-## Resources
+## Additional Resources
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
