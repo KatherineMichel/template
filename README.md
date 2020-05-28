@@ -35,6 +35,7 @@ Table of Contents
 * [Code of Conduct](#code-of-conduct)
 * [Connect](#connect)
 * [License](#license)
+* [Copyright](#copyright)
 
 ## Demo Videos
 
@@ -110,6 +111,8 @@ Table of Contents
 
 ## Code of Conduct
 
+Those who engage with this project are expected to follow my [Code of Conduct](https://github.com/KatherineMichel/.github/blob/master/CODE_OF_CONDUCT.md). 
+
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
 ## Connect
@@ -117,5 +120,11 @@ Table of Contents
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
 ## License
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
+## Copyright
+
+© 2020-Present Katherine Michel. All Rights Reserved.
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
