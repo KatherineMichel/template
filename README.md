@@ -29,11 +29,13 @@ Table of Contents
   * [JavaScript](#javascript)
 * [Milestones](#milestones)
   * [Milestone 1](#milestone-1)
+* [Publicity](#publicity)
+* [Connect](#connect)
+* [Resources](#resources)
 * [Possible Enhancements](#possible-enhancements)
 * [Change Log](#change-log)
 * [Contribute](#contribute)
 * [Code of Conduct](#code-of-conduct)
-* [Connect](#connect)
 * [License](#license)
 * [Copyright](#copyright)
 
@@ -97,6 +99,18 @@ Table of Contents
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
+## Publicity
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
+## Connect
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
+## Resources
+
+:top: <sub>[**Back to Top**](#table-of-contents)</sub>
+
 ## Possible Enhancements
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
@@ -112,10 +126,6 @@ Table of Contents
 ## Code of Conduct
 
 Those who engage with this project are expected to follow my [Code of Conduct](https://github.com/KatherineMichel/.github/blob/master/CODE_OF_CONDUCT.md). 
-
-:top: <sub>[**Back to Top**](#table-of-contents)</sub>
-
-## Connect
 
 :top: <sub>[**Back to Top**](#table-of-contents)</sub>
 
